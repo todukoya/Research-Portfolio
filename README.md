@@ -67,7 +67,7 @@ Research examining public attitudes toward the reintegration of former Boko Hara
 
 ## Repository Organization
 
-- `Projects/` — project pages and case studies
+- `projects/` — project pages and case studies
 - `assets/` — approved images, figures, and downloadable materials
 - `publications/` — selected publication summaries and links
 - `cv/` — current curriculum vitae

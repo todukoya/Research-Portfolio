@@ -1,0 +1,260 @@
+<!-- 
+  Hello 😊.
+
+  This template is designed and developed by Nisar Hassan Naqvi
+  for anyone to use for free or customize the way they like.
+
+  Github Repo: https://github.com/nisarhassan12/portfolio-template/
+  My Website: https://nisar.dev
+
+  For business & inquires, contact me => syednisarhassan12@gmail.com
+-->
+
+<!--
+  Follow the instructions written in comments to create your stunning portfolio
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" type="image/png" href="./images/favicon.png" />
+
+  <!-- Put your site title here -->
+  <title>
+    Tolu Odukoya | Research and Technical Portfolio
+  </title>
+
+  <meta name="description" content="Add small description of yourslef.">
+  <!-- Add some coding keywords below, Ex: (React, CSS etc) -->
+  <meta name="keywords" content="Put your name, skills and some coding keywords" />
+  <link rel="stylesheet" href="index.css" />
+</head>
+
+<body>
+
+  <!-- ***** Header ***** -->
+
+  <header class="header" role="banner" id="top">
+    <div class="row">
+      <nav class="nav" role="navigation">
+        <ul class="nav__items">
+          <li class="nav__item"><a href="#work" class="nav__link">Work</a></li>
+          <li class="nav__item"><a href="#papers" class="nav__link">Papers</a></li>
+          <li class="nav__item">
+            <a href="#about" class="nav__link">About</a>
+          </li>
+          <li class="nav__item">
+            <a href="#contact" class="nav__link">Contact</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+    <div class="header__text-box row">
+      <div class="header__text">
+        <h1 class="heading-primary">
+          <!-- Replace the following name with your name -->
+          <span>Tolu Odukoya, Esq., Ph.D.</span>
+        </h1>
+        <!-- Put a small paragraph about yourself -->
+        <p>Trustworthy AI × National Security × Computational Social Science</p>
+        <a href="#contact" class="btn btn--pink">Get in touch</a>
+      </div>
+    </div>
+  </header>
+
+  <main role="main">
+
+    <!-- ***** Work ***** -->
+
+    <section class="work" id="work">
+      <div class="row">
+        <h2>My Work</h2>
+        <div class="work__boxes">
+
+          <!-- Each div with the work__box class is a project. -->
+
+          <div class="work__box">
+            <div class="work__text">
+              <h3>Machine Learning for Historical Legal Text Classification</h3>
+              <p>
+                A computational project finetuning and applying BERT and DistilBERT models to identify and classify Jim Crow laws within a large historical legal corpus of laws passed during the Reconstruction Era (1865 - 1968)
+              </p>
+              <ul class="work__list">
+                <li>Role: Machine Learning and Data Analysis lead</li>
+              </ul>
+
+                <ul class="work__list">
+                <li>Tools:</li>
+                <li>Python</li>
+                <li>Hugging Face Transformers</li>
+                <li>Tensorflow</li>
+                <li>Pandas</li>
+                <li>LoRA</li>
+                <li>Q-LoRA</li>
+                </ul>
+
+                <ul class="work__list">
+                <li>Methods:</li>
+                <li>Transformer classification</li>
+                <li>Sentence Segmentation</li>
+                <li>Batch Training</li>
+                <li>Model Validation</li>
+                <li>Large-scale Text Analysis</li>
+              </ul>
+
+              <div class="work__links">
+                <a href="https://github.com/uvalawlibrary/mrcs/tree/main/code/classification" target="_blank" class="link__text">
+                  Code Samples <span>&rarr;</span>
+                </a>
+                <a href="https://github.com/uvalawlibrary/mrcs" title="Visit Repository" target="_blank">
+                  <img src="./images/github.svg" class="work__code" alt="GitHub">
+                </a>
+              </div>
+            </div>
+            <div class="work__image-box">
+              <img src="./images/OdukoyaAALLPoster.png" class="work__image" alt="Project 1" />
+            </div>
+          </div>
+
+          <div class="work__box">
+            <div class="work__text">
+              <h3>Climate Data for Virginia</h3>
+              <p>
+                Data analysis of the temperature changes in the Charlottesville region using DAYMET and NOAA data repositories, and advanced GIS in R to create digestible result visualizations for stakeholders to support policy decisions. Also developed a shiny app for animating multiple years of map polygons. 
+              </p>
+              <ul class="work__list">
+                <li>Role: Equity Summer Data Fellow</li>
+              </ul>
+
+                <ul class="work__list"> 
+                <li>Tools:</li>
+                <li>R</li>
+                <li>Mackdown</li>
+                <li>GIS</li>
+                <li>GitHub</li>
+                <li>ShinyApp</li>
+                <li>Leaflet</li>
+                <li>Gganimate</li>
+                </ul>
+
+                <ul class="work__list"> 
+                <li>Methods:</li>
+                <li>Census Shapefile Processing</li>
+                <li>Raster File Manipulation</li>
+                <li>API Data Requests</li>
+                <li>Advanced Data visualizations</li>
+                </ul>
+
+              <div class="work__links">
+                <a href="https://virginiaequitycenter.github.io/summer-sandbox/presentations/EQC-Presentation.html" class="link__text">
+                  Sample Code <span>&rarr;</span>
+                </a>
+                <a href="https://github.com/virginiaequitycenter/summer-sandbox/tree/main">
+                  <img src="./images/github.svg" class="work__code" title="View Repository" alt="GitHub">
+                </a>
+              </div>
+            </div>
+            <div class="work__image-box">
+              <img src="./images/project-2.png" class="work__image" alt="Project 1" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <!-- ***** About ***** -->
+
+    <section class="about" id="about">
+      <div class="row">
+        <h2>About Me</h2>
+        <div class="about__content">
+          <div class="about__text">
+            <!-- Replace the below paragraph with info about yourself -->
+            <p>
+              I am an interdisciplinary scholar working at the intersection of trustworthy artificial intelligence, terrorism and counterterrorism, criminology, national security, computational social science, and public policy. My research combines substantive expertise in political violence and security with machine learning, natural language processing, survey research, experimental design, and quantitative analysis.
+            </p>
+            <!-- Provide a link to your resume -->
+            <a href="#" class="btn">My Resume</a>
+          </div>
+
+          <div class="about__photo-container">
+            <!-- Add a nice photo of yourself -->
+            <img class="about__photo" src="./images/UVAPolitics_499ppFINALcropA.jpg" alt="" />
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ***** Contact ***** -->
+
+  <section class="contact" id="contact">
+    <div class="row">
+      <h2>Get in Touch</h2>
+      <div class="contact__info">
+        <p>
+          Are you looking for a fast-performing and user-friendly website to
+          represent your product or business? or looking for any kind of
+          consultation? or want to ask questions? or have some advice for me
+          or just want to say "Hi 👋" in any case feel free to Let me know. I
+          will do my best to respond back. 😊 The quickest way to reach out to
+          me is via an email.
+        </p>
+        <!-- Replace the email with yours -->
+        <a href="mailto:you@example.com" class="btn">you@example.com</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ***** Footer ***** -->
+
+  <footer role="contentinfo" class="footer">
+    <div class="row">
+      <!-- Update the links to point to your accounts -->
+      <ul class="footer__social-links">
+        <li class="footer__social-link-item">
+          <a href="https://twitter.com/nisarhassan12/" title="Link to Twitter Profile">
+            <img src="./images/twitter.svg" class="footer__social-image" alt="Twitter">
+          </a>
+        </li>
+        <li class="footer__social-link-item">
+          <a href="https://github.com/nisarhassan12/" title="Link to Github Profile">
+            <img src="./images/github.svg" class="footer__social-image" alt="Github">
+          </a>
+        </li>
+        <li class="footer__social-link-item">
+          <a href="https://codepen.io/nisar_hassan" title="Link to Codepen Profile">
+            <img src="./images/codepen.svg" class="footer__social-image" alt="Codepen">
+          </a>
+        </li>
+        <li class="footer__social-link-item">
+          <a href=https://www.linkedin.com/in/nisar-hassan-naqvi-413466199/">
+            <img src="./images/linkedin.svg" title="Link to Linkedin Profile" class="footer__social-image" alt="Linkedin">
+          </a>
+        </li>
+      </ul>
+
+      <!-- If you give me some credit by keeping the below paragraph, will be huge for me 😊 Thanks. -->
+      <p>
+        &copy; 2020 - Template designed & developed by <a href="https://nisar.dev" class="link">Nisar</a>.
+      </p>
+      <div class="footer__github-buttons">
+        <iframe
+          src="https://ghbtns.com/github-btn.html?user=nisarhassan12&repo=portfolio-template&type=watch&count=true"
+          frameborder="0" scrolling="0" width="170" height="20" title="Watch Portfolio Template on GitHub">
+        </iframe>
+      </div>
+    </div>
+  </footer>
+
+  <a href="#top" class="back-to-top" title="Back to Top">
+    <img src="./images/arrow-up.svg" alt="Back to Top" class="back-to-top__image"/>
+  </a>
+  <script src="./index.js"></script>
+</body>
+
+</html>

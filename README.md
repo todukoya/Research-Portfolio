@@ -92,7 +92,6 @@ A subproject of a representative survey on AI-enabled crime examining responses 
 - `projects/` — project pages and case studies
 - `assets/` — approved images, figures, and downloadable materials
 - `publications/` — selected publication summaries and links
-- `cv/` — current curriculum vitae
 - `index.html` — homepage content for the portfolio website
 
 ## Research Ethics and Availability

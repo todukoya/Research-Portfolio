@@ -19,15 +19,23 @@ The portfolio highlights projects in:
 
 ## Featured Research Programs
 
-
-
 ### Machine Learning for Historical Legal Text Classification
 
 A computational project applying transformer-based language models to identify and classify Jim Crow laws within a large historical legal corpus.
 
 **Role:** Researcher and Technical lead  
-**Methods:** BERT, DistilBERT, supervised classification, corpus preprocessing, model validation, and large-scale text analysis  
-**Status:** Research Completed.  Manuscript development
+**Tools:** R, Mackdown, GIS, GitHub, ShinyApp, Leaflet, and Gganimate
+**Methods:** Advanced Data visualizations, Census Shapefile Processing, Raster File Manipulation, API Data Requests
+**Status:** Research Completed.  Repository linked in my home page.
+
+### Climate Data For Virginia
+
+Data analysis of the temperature changes in the Charlottesville region using DAYMET and NOAA data repositories, and advanced GIS in R to create digestible result visualizations for stakeholders to support policy decisions.
+
+**Role:** Equity Data Science Intern  
+**Methods:** Field interviews, qualitative analysis, survey and conjoint design, spatial-relational theory development  
+**Status:** Published and ongoing research expansion. The **published paper** is available in projects.
+
 
 ### Community Receptivity to Former Boko Haram Associates
 
@@ -38,9 +46,10 @@ Research examining public attitudes toward the reintegration of former Boko Hara
 **Status:** Published and ongoing research expansion. The **published paper** is available in projects.
 
 
+
 ## Active Research Projects (Content Coming Soon)
 
-These projects are currently under active development. Technical documentation, publications, and code will be released as they become publicly available.
+  These projects are currently under active development. Technical documentation, publications, and code will be released as they become publicly available.
 
 
 ### Responsible Conversational AI for Counter-Extremism
@@ -51,6 +60,7 @@ A multidisciplinary research program developing and evaluating multilingual, ris
 **Methods:** Large language models, retrieval-augmented generation, multilingual NLP, risk classification, human oversight, and responsible AI evaluation  
 **Status:** Active research and prototype development
 
+
 ### Multi-Agent AI Safety and Oversight
 
 A scalable experimental testbed for studying failure propagation, coordination, information sharing, human oversight, and intervention in networks of interacting AI agents.
@@ -58,6 +68,7 @@ A scalable experimental testbed for studying failure propagation, coordination, 
 **Role:** Principal Investigator  
 **Methods:** Multi-agent evaluation, benchmark and scenario design, experimental manipulation, failure analysis, and human-AI oversight  
 **Status:** Active research and proposal development
+
 
 ### AI-Generated Media, Fear, Responsibility, and Regulation
 
@@ -67,12 +78,14 @@ A subproject of a representative survey on AI-enabled crime examining responses 
 **Methods:** Survey experiments, quantitative analysis, ordinal and binary regression, scenario and framing experiments  
 **Status:** Manuscripts in development
 
+
 ## Technologies and Methods
 
 **Programming and Analysis:** R, Python,Jupyter, PyCharm, Git, SQL, Markdown, Qualtrics, LateX
 **Machine Learning and NLP:** TensorFlow, LLMs, Hugging Face Transformers, BERT, DistilBERT, LoRA, QLoRA, text classification, PyTorch 
 **Quantitative Methods:** Survey experiments, regression analysis, causal inference, conjoint analysis, scale development  
 **Research Areas:** Trustworthy AI, AI safety, terrorism, criminology, human-AI collaboration, cybercrime, national security, and technology policy
+
 
 ## Repository Organization
 

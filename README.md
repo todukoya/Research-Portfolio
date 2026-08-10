@@ -9,14 +9,39 @@ I am an interdisciplinary scholar working at the intersection of trustworthy art
 The portfolio highlights projects in:
 
 - Trustworthy AI and AI safety
+- Terrorism, counterterrorism, and violent-extremism research
+- Computational social science and policy analysis
 - Multi-agent AI systems and oversight
 - Responsible conversational AI for counter-extremism
 - AI-generated videos, crime, and public attitudes
 - Machine learning and natural language processing
-- Terrorism, counterterrorism, and violent-extremism research
-- Computational social science and policy analysis
+
 
 ## Featured Research Programs
+
+
+
+### Machine Learning for Historical Legal Text Classification
+
+A computational project applying transformer-based language models to identify and classify Jim Crow laws within a large historical legal corpus.
+
+**Role:** Researcher and Technical lead  
+**Methods:** BERT, DistilBERT, supervised classification, corpus preprocessing, model validation, and large-scale text analysis  
+**Status:** Research Completed.  Manuscript development
+
+### Community Receptivity to Former Boko Haram Associates
+
+Research examining public attitudes toward the reintegration of former Boko Haram associates in Nigeria and the effects of geographic, relational, and conflict exposure.
+
+**Role:** Principal Investigator  
+**Methods:** Field interviews, qualitative analysis, survey and conjoint design, spatial-relational theory development  
+**Status:** Published and ongoing research expansion. The **published paper** is available in projects.
+
+
+## Active Research Projects (Content Coming Soon)
+
+These projects are currently under active development. Technical documentation, publications, and code will be released as they become publicly available.
+
 
 ### Responsible Conversational AI for Counter-Extremism
 
@@ -42,22 +67,6 @@ A subproject of a representative survey on AI-enabled crime examining responses 
 **Methods:** Survey experiments, quantitative analysis, ordinal and binary regression, scenario and framing experiments  
 **Status:** Manuscripts in development
 
-### Machine Learning for Historical Legal Text Classification
-
-A computational project applying transformer-based language models to identify and classify Jim Crow laws within a large historical legal corpus.
-
-**Role:** Researcher and Technical lead  
-**Methods:** BERT, DistilBERT, supervised classification, corpus preprocessing, model validation, and large-scale text analysis  
-**Status:** Research Completed.  Manuscript development
-
-### Community Receptivity to Former Boko Haram Associates
-
-Research examining public attitudes toward the reintegration of former Boko Haram associates in Nigeria and the effects of geographic, relational, and conflict exposure.
-
-**Role:** Principal Investigator  
-**Methods:** Field interviews, qualitative analysis, survey and conjoint design, spatial-relational theory development  
-**Status:** Published and ongoing research expansion
-
 ## Technologies and Methods
 
 **Programming and Analysis:** R, Python,Jupyter, PyCharm, Git, SQL, Markdown, Qualtrics, LateX
@@ -71,7 +80,7 @@ Research examining public attitudes toward the reintegration of former Boko Hara
 - `assets/` — approved images, figures, and downloadable materials
 - `publications/` — selected publication summaries and links
 - `cv/` — current curriculum vitae
-- `index.md` — homepage content for the portfolio website
+- `index.html` — homepage content for the portfolio website
 
 ## Research Ethics and Availability
 
@@ -86,7 +95,7 @@ Georgia Southern University
 - [University Profile](https://www.georgiasouthern.edu/colleges/behavioral-social-sciences/departments/political-science-international/faculty)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=90VfS44AAAAJ)
 - [LinkedIn](http://www.linkedin.com/in/toluodukoya)
-- [Curriculum Vitae](ADD-CV-LINK)
+- [Curriculum Vitae](https://www.toluodukoya.com/cv)
 
 ---
 

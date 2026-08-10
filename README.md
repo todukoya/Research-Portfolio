@@ -34,7 +34,7 @@ Data analysis of the temperature changes in the Charlottesville region using DAY
 
 **Role:** Equity Data Science Intern  
 **Methods:** Field interviews, qualitative analysis, survey and conjoint design, spatial-relational theory development  
-**Status:** Published and ongoing research expansion. The **published paper** is available in projects.
+**Status:** Published and ongoing research expansion. The **published paper** is available in `publications/`.
 
 
 ### Community Receptivity to Former Boko Haram Associates
